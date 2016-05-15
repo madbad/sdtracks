@@ -1,0 +1,15 @@
+﻿An Klettwitz und dessen Versionen haben mitgearbeitet:
+
+* Heinz-Juergen Schuessler; xml-Datei, Objekte, einige Texturen, Turn-Marks
+* Sebastian Heni; Texturen, kleine Teile der xml und Grundidee
+* Team Meurotops; Texturen der Boxengasse und des Grases
+
+Those people did the work:
+
+* Heinz-Juergen Schuessler; xml-file, objects, some Textures, Turn-Marks
+* Sebastian Heni; textures, some parts of the xml and the initial idea
+* Team Meurotops; textures of the pit and the grass
+
+Und natürlich Google Earth für Satellitenfotos und die verschiedensten Videoportale für Streckenvideos der Originalstrecke, deren Name hier nicht genannt wird, ein jeder denke sich selbst, an welche Strecke wir uns angelehnt haben... ;)
+
+And of course Google Earth for satellite photos and some video internet pages for track videos of the original whose name is not said here, just imagine the origin yourself ;)

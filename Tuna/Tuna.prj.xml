@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_20" class="java.beans.XMLDecoder"> 
+ <object class="utils.Properties"> 
+  <void property="author"> 
+   <string>Kennet Eriksson</string> 
+  </void> 
+  <void property="category"> 
+   <string>road</string> 
+  </void> 
+  <void property="currentA"> 
+   <double>-6.283185307179583</double> 
+  </void> 
+  <void property="currentX"> 
+   <double>0.07591521221036146</double> 
+  </void> 
+  <void property="currentY"> 
+   <double>0.04594866636080607</double> 
+  </void> 
+  <void property="curveNameCount"> 
+   <int>71</int> 
+  </void> 
+  <void property="description"> 
+   <string>Technical difficulties and good overtaking opportunities.</string> 
+  </void> 
+  <void property="path"> 
+   <string>/home/player/spel/speed-dreams/src-20100327/share/games/speed-dreams/tracks/road/Tuna</string> 
+  </void> 
+  <void property="pitEnd"> 
+   <string>pit_end</string> 
+  </void> 
+  <void property="pitEntry"> 
+   <string>pit_entry</string> 
+  </void> 
+  <void property="pitExit"> 
+   <string>pit_exit</string> 
+  </void> 
+  <void property="pitLength"> 
+   <double>15.0</double> 
+  </void> 
+  <void property="pitStart"> 
+   <string>pit_start</string> 
+  </void> 
+  <void property="pitWidth"> 
+   <double>3.5</double> 
+  </void> 
+  <void property="straightNameCount"> 
+   <int>12</int> 
+  </void> 
+  <void property="trackName"> 
+   <string>Tuna</string> 
+  </void> 
+  <void property="trackWidth"> 
+   <double>12.0</double> 
+  </void> 
+ </object> 
+</java> 

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_17" class="java.beans.XMLDecoder"> 
+ <object class="utils.Properties"> 
+  <void property="author"> 
+   <string>C.Finemore</string> 
+  </void> 
+  <void property="category"> 
+   <string>circuit</string> 
+  </void> 
+  <void property="currentA"> 
+   <double>6.283185307179587</double> 
+  </void> 
+  <void property="currentX"> 
+   <double>-0.5277012510646841</double> 
+  </void> 
+  <void property="currentY"> 
+   <double>-0.021750167398602548</double> 
+  </void> 
+  <void property="curveNameCount"> 
+   <int>28</int> 
+  </void> 
+  <void property="description"> 
+   <string>Fast track with several 90 degree turns.</string> 
+  </void> 
+  <void property="path"> 
+   <string>C:\Program Files\speed-dreams-2.0.0\data\tracks\circuit\Redcliff Raceway</string> 
+  </void> 
+  <void property="pitEnd"> 
+   <string>3</string> 
+  </void> 
+  <void property="pitEntry"> 
+   <string>43</string> 
+  </void> 
+  <void property="pitExit"> 
+   <string>4</string> 
+  </void> 
+  <void property="pitLength"> 
+   <double>10.0</double> 
+  </void> 
+  <void property="pitSide"> 
+   <string>left</string> 
+  </void> 
+  <void property="pitStart"> 
+   <string>45</string> 
+  </void> 
+  <void property="pitWidth"> 
+   <double>5.0</double> 
+  </void> 
+  <void property="straightNameCount"> 
+   <int>36</int> 
+  </void> 
+  <void property="trackName"> 
+   <string>Redcliff Raceway</string> 
+  </void> 
+  <void property="trackWidth"> 
+   <double>13.0</double> 
+  </void> 
+ </object> 
+</java> 
